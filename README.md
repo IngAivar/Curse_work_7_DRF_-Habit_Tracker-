@@ -6,11 +6,11 @@
 2. С помощью команды `cd` перейти в каталог, где будет размещен проект
 3. Выполнить команду для клонирования проекта
 ```bash
-git clone https://github.com/arinazaikina/habit_tracker_drf_postgres_celery.git
+git clone https://github.com/IngAivar/Curse_work_7_DRF_-Habit_Tracker-
 ```
 4. Перейти в каталог проекта
 ```bash
-cd habit_tracker_drf_postgres_celery
+cd Curse_work_7_DRF_-Habit_Tracker-
 ```
 5. В корневой папке проекта создать файл `.env`
 ```bash
